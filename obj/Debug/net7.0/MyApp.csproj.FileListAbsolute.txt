@@ -1,0 +1,15 @@
+/Users/leobanos/random_projects/c_sharp/MyApp/bin/Debug/net7.0/MyApp
+/Users/leobanos/random_projects/c_sharp/MyApp/bin/Debug/net7.0/MyApp.deps.json
+/Users/leobanos/random_projects/c_sharp/MyApp/bin/Debug/net7.0/MyApp.runtimeconfig.json
+/Users/leobanos/random_projects/c_sharp/MyApp/bin/Debug/net7.0/MyApp.dll
+/Users/leobanos/random_projects/c_sharp/MyApp/bin/Debug/net7.0/MyApp.pdb
+/Users/leobanos/random_projects/c_sharp/MyApp/obj/Debug/net7.0/MyApp.csproj.AssemblyReference.cache
+/Users/leobanos/random_projects/c_sharp/MyApp/obj/Debug/net7.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leobanos/random_projects/c_sharp/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfoInputs.cache
+/Users/leobanos/random_projects/c_sharp/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfo.cs
+/Users/leobanos/random_projects/c_sharp/MyApp/obj/Debug/net7.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/leobanos/random_projects/c_sharp/MyApp/obj/Debug/net7.0/MyApp.dll
+/Users/leobanos/random_projects/c_sharp/MyApp/obj/Debug/net7.0/refint/MyApp.dll
+/Users/leobanos/random_projects/c_sharp/MyApp/obj/Debug/net7.0/MyApp.pdb
+/Users/leobanos/random_projects/c_sharp/MyApp/obj/Debug/net7.0/MyApp.genruntimeconfig.cache
+/Users/leobanos/random_projects/c_sharp/MyApp/obj/Debug/net7.0/ref/MyApp.dll
